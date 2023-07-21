@@ -22,23 +22,23 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
     ABOUT_TXT ="""<b>🤖Mʏ Nᴀᴍᴇ:{}
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/creatorrio>Click</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Zenitsu_AF>Click</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : HEROKU 
-📢 Movie Group : <a href=https://t.me/tamilmovies4Krio>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
+📢 Movie Group : <a href=https://t.me/movies_anime_zone>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
     SOURCES_TXT ="""This source is public source code don't sale money source code link 👇
   
--<a href=https://github.com/1238muj/Premium-filter-RIO-NETWORKS->SOURCE CODE</a>
+-<a href=https://graph.org/file/6a2506bdf72802406b9a2.mp4>SOURCE CODE</a>
 
--<a href=https://t.me/creatorrio>THIS BOT OWNER any issues Contact Owner</a>"""
+-<a href=https://t.me/Zenitsu_AF>THIS BOT OWNER any issues Contact Owner</a>"""
 
 
     SOURCES_TXT ="""This source is public source code don't sale money source code link 👇
   
--<a href=https://github.com/1238muj/Premium-filter-RIO-NETWORKS->SOURCE CODE</a>
+-<a href=https://graph.org/file/6a2506bdf72802406b9a2.mp4>SOURCE CODE</a>
 
--<a href=https://t.me/creatorrio>THIS BOT OWNER any issues Contact Owner</a>"""
+-<a href=https://t.me/Zenitsu_AF>THIS BOT OWNER any issues Contact Owner</a>"""
 
     FONT_TXT = """I Cᴀɴ Gᴇɴᴇʀᴀᴛᴇ Aᴛᴛʀᴀᴄᴛɪᴠᴇ Fᴏɴᴛs Fᴏʀ Yᴏᴜʀ Tᴇxᴛ Sᴇɴᴅ Lɪᴋᴇ Tʜɪs 👇
 
@@ -72,7 +72,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 
 <b>Aɴᴅ Bᴏᴛ Wɪʟʟ Sᴇɴᴅ Yᴏᴜ Asᴋᴇᴅ Fɪʟᴇ</b>
 
-<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/howtodownloadmoviestamilhd/63>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
+<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/guardians_Bot_Updates>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
 
     CONTACT_TXT = """<b>
 <b>»» ° Oɴʟʏ Cᴏɴᴛᴀᴄᴛ Fᴏʀ Pᴀɪᴅ Wᴏʀᴋs / Pʀᴏʙʟᴇᴍ / Dᴏᴜʙᴛ / Cᴏʟʟᴀʙ / Hᴇʟᴩ °</b>
