@@ -22,7 +22,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
     ABOUT_TXT ="""<b>🤖Mʏ Nᴀᴍᴇ:{}
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Zenitsu_AF>Click</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Shadow_Sanpai>Click</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : HEROKU 
@@ -31,14 +31,14 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
   
 -<a href=https://graph.org/file/6a2506bdf72802406b9a2.mp4>SOURCE CODE</a>
 
--<a href=https://t.me/Zenitsu_AF>THIS BOT OWNER any issues Contact Owner</a>"""
+-<a href=https://t.me/Shadow_Sanpai>THIS BOT OWNER any issues Contact Owner</a>"""
 
 
     SOURCES_TXT ="""This source is public source code don't sale money source code link 👇
   
 -<a href=https://graph.org/file/6a2506bdf72802406b9a2.mp4>SOURCE CODE</a>
 
--<a href=https://t.me/Zenitsu_AF>THIS BOT OWNER any issues Contact Owner</a>"""
+-<a href=https://t.me/Shadow_Sanpai>THIS BOT OWNER any issues Contact Owner</a>"""
 
     FONT_TXT = """I Cᴀɴ Gᴇɴᴇʀᴀᴛᴇ Aᴛᴛʀᴀᴄᴛɪᴠᴇ Fᴏɴᴛs Fᴏʀ Yᴏᴜʀ Tᴇxᴛ Sᴇɴᴅ Lɪᴋᴇ Tʜɪs 👇
 
